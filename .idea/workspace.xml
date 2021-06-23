@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c599d897-ac97-4926-9c28-947fa653713e" name="Default Changelist" comment="remapples" />
+    <list default="true" id="c599d897-ac97-4926-9c28-947fa653713e" name="Default Changelist" comment="positiveintegers">
+      <change afterPath="$PROJECT_DIR$/Lab1/ten.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +77,49 @@
       <option name="project" value="LOCAL" />
       <updated>1624437366862</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="hours">
+      <created>1624437403138</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1624437403138</updated>
+    </task>
+    <task id="LOCAL-00004" summary="desk">
+      <created>1624437429125</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1624437429125</updated>
+    </task>
+    <task id="LOCAL-00005" summary="BMI">
+      <created>1624437478990</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1624437478990</updated>
+    </task>
+    <task id="LOCAL-00006" summary="jogging">
+      <created>1624437559444</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1624437559444</updated>
+    </task>
+    <task id="LOCAL-00007" summary="areaofcircle">
+      <created>1624437615667</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1624437615667</updated>
+    </task>
+    <task id="LOCAL-00008" summary="positiveintegers">
+      <created>1624437692789</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1624437692789</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,6 +136,12 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="areaofrightangletriangle" />
     <MESSAGE value="remapples" />
-    <option name="LAST_COMMIT_MESSAGE" value="remapples" />
+    <MESSAGE value="hours" />
+    <MESSAGE value="desk" />
+    <MESSAGE value="BMI" />
+    <MESSAGE value="jogging" />
+    <MESSAGE value="areaofcircle" />
+    <MESSAGE value="positiveintegers" />
+    <option name="LAST_COMMIT_MESSAGE" value="positiveintegers" />
   </component>
 </project>
