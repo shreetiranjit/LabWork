@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c599d897-ac97-4926-9c28-947fa653713e" name="Default Changelist" comment="nameformating">
-      <change afterPath="$PROJECT_DIR$/conditions/one.py" afterDir="false" />
+    <list default="true" id="c599d897-ac97-4926-9c28-947fa653713e" name="Default Changelist" comment="secretnumber">
+      <change afterPath="$PROJECT_DIR$/Lab2/one.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +140,42 @@
       <option name="project" value="LOCAL" />
       <updated>1624437780733</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="downpayment">
+      <created>1624437910673</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1624437910673</updated>
+    </task>
+    <task id="LOCAL-00013" summary="temperature">
+      <created>1624437951333</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1624437951333</updated>
+    </task>
+    <task id="LOCAL-00014" summary="lengthofname">
+      <created>1624438002323</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1624438002323</updated>
+    </task>
+    <task id="LOCAL-00015" summary="kgorlbs">
+      <created>1624438064663</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1624438064663</updated>
+    </task>
+    <task id="LOCAL-00016" summary="secretnumber">
+      <created>1624438144180</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1624438144180</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,6 +188,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="areaofrightangletriangle" />
@@ -165,6 +201,11 @@
     <MESSAGE value="positiveintegers" />
     <MESSAGE value="dayhourminutes" />
     <MESSAGE value="nameformating" />
-    <option name="LAST_COMMIT_MESSAGE" value="nameformating" />
+    <MESSAGE value="downpayment" />
+    <MESSAGE value="temperature" />
+    <MESSAGE value="lengthofname" />
+    <MESSAGE value="kgorlbs" />
+    <MESSAGE value="secretnumber" />
+    <option name="LAST_COMMIT_MESSAGE" value="secretnumber" />
   </component>
 </project>
