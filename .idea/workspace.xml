@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c599d897-ac97-4926-9c28-947fa653713e" name="Default Changelist" comment="secretnumber">
-      <change afterPath="$PROJECT_DIR$/Lab2/one.py" afterDir="false" />
+    <list default="true" id="c599d897-ac97-4926-9c28-947fa653713e" name="Default Changelist" comment="lastdigit">
+      <change afterPath="$PROJECT_DIR$/Lab2/seven.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,7 +175,49 @@
       <option name="project" value="LOCAL" />
       <updated>1624438144180</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="numberinlist">
+      <created>1624438359965</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1624438359965</updated>
+    </task>
+    <task id="LOCAL-00018" summary="grade">
+      <created>1624438415726</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1624438415726</updated>
+    </task>
+    <task id="LOCAL-00019" summary="oddeven">
+      <created>1624438459218</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1624438459218</updated>
+    </task>
+    <task id="LOCAL-00020" summary="smallestinteger">
+      <created>1624438518190</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1624438518190</updated>
+    </task>
+    <task id="LOCAL-00021" summary="truefalsezero">
+      <created>1624438566563</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1624438566563</updated>
+    </task>
+    <task id="LOCAL-00022" summary="lastdigit">
+      <created>1624438610684</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1624438610684</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -206,6 +248,12 @@
     <MESSAGE value="lengthofname" />
     <MESSAGE value="kgorlbs" />
     <MESSAGE value="secretnumber" />
-    <option name="LAST_COMMIT_MESSAGE" value="secretnumber" />
+    <MESSAGE value="numberinlist" />
+    <MESSAGE value="grade" />
+    <MESSAGE value="oddeven" />
+    <MESSAGE value="smallestinteger" />
+    <MESSAGE value="truefalsezero" />
+    <MESSAGE value="lastdigit" />
+    <option name="LAST_COMMIT_MESSAGE" value="lastdigit" />
   </component>
 </project>
