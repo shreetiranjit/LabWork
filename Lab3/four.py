@@ -15,3 +15,4 @@ def multiples():
     sum = d+ c
 
 multiples()
+multiples()
