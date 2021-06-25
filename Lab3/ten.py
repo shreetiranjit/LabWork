@@ -5,7 +5,7 @@ Accept string from the user and display only those characters which are present 
 def string(a):
    evenstring = a[::2]
    print (f'{evenstring} are the characters in even index.')
-   return a
+   return evenstring
 a = str(input("Enter the word:"))
 string(a)
 
