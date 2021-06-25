@@ -15,5 +15,6 @@ def prime(a) :
                break
     else :
         print(f'{a} is not a prime number.')
+    return a
 a = int (input("Enter the number:"))
 prime(a)
