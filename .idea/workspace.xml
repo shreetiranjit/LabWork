@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c599d897-ac97-4926-9c28-947fa653713e" name="Default Changelist" comment="evenodd" />
+    <list default="true" id="c599d897-ac97-4926-9c28-947fa653713e" name="Default Changelist" comment="maximum">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/five.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/four.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/three.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/two.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -434,7 +440,21 @@
       <option name="project" value="LOCAL" />
       <updated>1624604134228</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="fizzbuzz">
+      <created>1624604170032</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1624604170032</updated>
+    </task>
+    <task id="LOCAL-00039" summary="maximum">
+      <created>1624604834503</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1624604834503</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -450,7 +470,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="dayhourminutes" />
     <MESSAGE value="nameformating" />
     <MESSAGE value="downpayment" />
     <MESSAGE value="temperature" />
@@ -471,10 +490,11 @@
     <MESSAGE value="addx" />
     <MESSAGE value="float" />
     <MESSAGE value="comparision" />
-    <MESSAGE value="fizzbuzz" />
-    <MESSAGE value="maximum" />
     <MESSAGE value="FizzBuzz" />
     <MESSAGE value="evenodd" />
-    <option name="LAST_COMMIT_MESSAGE" value="evenodd" />
+    <MESSAGE value="fizzbuzz" />
+    <MESSAGE value="row" />
+    <MESSAGE value="maximum" />
+    <option name="LAST_COMMIT_MESSAGE" value="maximum" />
   </component>
 </project>
