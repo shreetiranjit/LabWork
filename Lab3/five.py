@@ -11,4 +11,5 @@ def show_stars(a):
         for j in range (i+1) :
            print ('*' , end = '')
         print()
+    return a
 show_stars(5)
