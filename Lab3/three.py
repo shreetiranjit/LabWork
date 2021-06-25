@@ -11,4 +11,5 @@ def showNumbers(a,b) :
         elif i%2 == 1 :
             print (f'{i} is odd')
    i = i+1
+   return (a,b)
 showNumbers(0,5)
