@@ -12,6 +12,6 @@ def palindrome(a) :
         print (f'{a} is palindrome.')
     elif a!=b :
         print (f'{a} is not palindrome.')
-    return a
+    return b
 a = str(input("Enter the word , phrase or sequence to check if it's palindrome :"))
 palindrome(a)
