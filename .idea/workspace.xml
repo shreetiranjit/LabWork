@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c599d897-ac97-4926-9c28-947fa653713e" name="Default Changelist" comment="maximum">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c599d897-ac97-4926-9c28-947fa653713e" name="Default Changelist" comment="fizzbuzz" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -464,7 +462,35 @@
       <option name="project" value="LOCAL" />
       <updated>1624604911675</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="maximum">
+      <created>1624605644180</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1624605644180</updated>
+    </task>
+    <task id="LOCAL-00043" summary="maximum">
+      <created>1624605793156</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1624605793156</updated>
+    </task>
+    <task id="LOCAL-00044" summary="maximum">
+      <created>1624605870429</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1624605870429</updated>
+    </task>
+    <task id="LOCAL-00045" summary="fizzbuzz">
+      <created>1624605913246</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1624605913246</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -502,9 +528,9 @@
     <MESSAGE value="comparision" />
     <MESSAGE value="FizzBuzz" />
     <MESSAGE value="evenodd" />
-    <MESSAGE value="fizzbuzz" />
     <MESSAGE value="row" />
     <MESSAGE value="maximum" />
-    <option name="LAST_COMMIT_MESSAGE" value="maximum" />
+    <MESSAGE value="fizzbuzz" />
+    <option name="LAST_COMMIT_MESSAGE" value="fizzbuzz" />
   </component>
 </project>
