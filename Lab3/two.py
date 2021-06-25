@@ -13,5 +13,5 @@ def fizz_buzzthat () :
         print ("FizzBuzz")
     else :
         print (a)
-a = int(input("Enter the value for a  :"))
+a = float(input("Enter the value for a  :"))
 fizz_buzzthat()
