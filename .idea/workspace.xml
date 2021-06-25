@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c599d897-ac97-4926-9c28-947fa653713e" name="Default Changelist" comment="fizzbuzz" />
+    <list default="true" id="c599d897-ac97-4926-9c28-947fa653713e" name="Default Changelist" comment="multiples">
+      <change afterPath="$PROJECT_DIR$/Lab3/six.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +32,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Python.one">
+  <component name="RunManager" selected="Python.six">
     <configuration name="five" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LabWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -114,6 +117,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="six" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LabWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab3/six.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="three" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LabWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -135,34 +159,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="two" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LabWork" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab3/two.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.six" />
+        <item itemvalue="Python.four" />
         <item itemvalue="Python.one" />
         <item itemvalue="Python.five" />
-        <item itemvalue="Python.four" />
         <item itemvalue="Python.three" />
-        <item itemvalue="Python.two" />
       </list>
     </recent_temporary>
   </component>
@@ -490,7 +493,35 @@
       <option name="project" value="LOCAL" />
       <updated>1624605913246</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="evenodd">
+      <created>1624606014255</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1624606014255</updated>
+    </task>
+    <task id="LOCAL-00047" summary="stars">
+      <created>1624606070580</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1624606070580</updated>
+    </task>
+    <task id="LOCAL-00048" summary="fizzbuzz">
+      <created>1624606167412</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1624606167412</updated>
+    </task>
+    <task id="LOCAL-00049" summary="multiples">
+      <created>1624606247308</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1624606247308</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -506,8 +537,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="nameformating" />
-    <MESSAGE value="downpayment" />
     <MESSAGE value="temperature" />
     <MESSAGE value="lengthofname" />
     <MESSAGE value="kgorlbs" />
@@ -527,10 +556,12 @@
     <MESSAGE value="float" />
     <MESSAGE value="comparision" />
     <MESSAGE value="FizzBuzz" />
-    <MESSAGE value="evenodd" />
     <MESSAGE value="row" />
     <MESSAGE value="maximum" />
+    <MESSAGE value="evenodd" />
+    <MESSAGE value="stars" />
     <MESSAGE value="fizzbuzz" />
-    <option name="LAST_COMMIT_MESSAGE" value="fizzbuzz" />
+    <MESSAGE value="multiples" />
+    <option name="LAST_COMMIT_MESSAGE" value="multiples" />
   </component>
 </project>
