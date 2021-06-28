@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c599d897-ac97-4926-9c28-947fa653713e" name="Default Changelist" comment="upperandlowercase">
+    <list default="true" id="c599d897-ac97-4926-9c28-947fa653713e" name="Default Changelist" comment="armstrong">
+      <change afterPath="$PROJECT_DIR$/Lab3/thirteen.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lab3/eight.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/eight.py" afterDir="false" />
     </list>
@@ -32,7 +33,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Python.twelve">
+  <component name="RunManager" selected="Python.eight">
     <configuration name="eight" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LabWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -161,8 +162,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.twelve" />
         <item itemvalue="Python.eight" />
+        <item itemvalue="Python.twelve" />
         <item itemvalue="Python.seven" />
         <item itemvalue="Python.four" />
         <item itemvalue="Python.eleven" />
@@ -177,20 +178,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624436782246</updated>
-    </task>
-    <task id="LOCAL-00018" summary="grade">
-      <created>1624438415726</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1624438415726</updated>
-    </task>
-    <task id="LOCAL-00019" summary="oddeven">
-      <created>1624438459218</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1624438459218</updated>
     </task>
     <task id="LOCAL-00020" summary="smallestinteger">
       <created>1624438518190</created>
@@ -521,7 +508,21 @@
       <option name="project" value="LOCAL" />
       <updated>1624859240112</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="primenumber">
+      <created>1624860656435</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1624860656435</updated>
+    </task>
+    <task id="LOCAL-00068" summary="armstrong">
+      <created>1624860873338</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1624860873338</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -537,8 +538,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="lastdigit" />
-    <MESSAGE value="fractionalapart" />
     <MESSAGE value="sumofdigits" />
     <MESSAGE value="leapyear" />
     <MESSAGE value="totalsum" />
@@ -562,6 +561,8 @@
     <MESSAGE value="factorial" />
     <MESSAGE value="limit" />
     <MESSAGE value="upperandlowercase" />
-    <option name="LAST_COMMIT_MESSAGE" value="upperandlowercase" />
+    <MESSAGE value="primenumber" />
+    <MESSAGE value="armstrong" />
+    <option name="LAST_COMMIT_MESSAGE" value="armstrong" />
   </component>
 </project>
