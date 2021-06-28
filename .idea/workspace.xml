@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c599d897-ac97-4926-9c28-947fa653713e" name="Default Changelist" comment="cargame">
+    <list default="true" id="c599d897-ac97-4926-9c28-947fa653713e" name="Default Changelist" comment="armstrong">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +31,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Python.ten">
+  <component name="RunManager" selected="Python.one">
     <configuration name="eight" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LabWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -74,7 +74,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="seven" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="one" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LabWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,7 +86,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab3/seven.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab3/one.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.one" />
         <item itemvalue="Python.ten" />
         <item itemvalue="Python.thirteen" />
         <item itemvalue="Python.eight" />
         <item itemvalue="Python.twelve" />
-        <item itemvalue="Python.seven" />
       </list>
     </recent_temporary>
   </component>
@@ -176,13 +176,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624436782246</updated>
-    </task>
-    <task id="LOCAL-00022" summary="lastdigit">
-      <created>1624438610684</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1624438610684</updated>
     </task>
     <task id="LOCAL-00023" summary="fractionalapart">
       <created>1624438665103</created>
@@ -520,7 +513,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624864312624</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="armstrong">
+      <created>1624866354726</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1624866354726</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -558,9 +558,9 @@
     <MESSAGE value="factorial" />
     <MESSAGE value="limit" />
     <MESSAGE value="upperandlowercase" />
-    <MESSAGE value="armstrong" />
     <MESSAGE value="primenumber" />
     <MESSAGE value="cargame" />
-    <option name="LAST_COMMIT_MESSAGE" value="cargame" />
+    <MESSAGE value="armstrong" />
+    <option name="LAST_COMMIT_MESSAGE" value="armstrong" />
   </component>
 </project>
