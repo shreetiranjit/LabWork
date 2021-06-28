@@ -32,7 +32,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Python.eight">
+  <component name="RunManager" selected="Python.twelve">
     <configuration name="eight" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LabWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -161,8 +161,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.eight" />
         <item itemvalue="Python.twelve" />
+        <item itemvalue="Python.eight" />
         <item itemvalue="Python.seven" />
         <item itemvalue="Python.four" />
         <item itemvalue="Python.eleven" />
