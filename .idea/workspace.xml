@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c599d897-ac97-4926-9c28-947fa653713e" name="Default Changelist" comment="temperatureconversion">
-      <change afterPath="$PROJECT_DIR$/Lab4/three.py" afterDir="false" />
+    <list default="true" id="c599d897-ac97-4926-9c28-947fa653713e" name="Default Changelist" comment="numberguessing">
+      <change afterPath="$PROJECT_DIR$/Lab4/four.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,8 +32,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Python.three">
-    <configuration name="eight" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.four">
+    <configuration name="four" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LabWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -41,11 +41,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab3/eight.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab4/four.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.four" />
         <item itemvalue="Python.three" />
         <item itemvalue="Python.two (1)" />
         <item itemvalue="Python.one (1)" />
         <item itemvalue="Python.thirteen" />
-        <item itemvalue="Python.eight" />
       </list>
     </recent_temporary>
   </component>
@@ -177,13 +177,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624436782246</updated>
-    </task>
-    <task id="LOCAL-00032" summary="maximum">
-      <created>1624603833028</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1624603833028</updated>
     </task>
     <task id="LOCAL-00033" summary="maximum">
       <created>1624603973419</created>
@@ -521,7 +514,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625207297628</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="numberguessing">
+      <created>1625207949100</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1625207949100</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -537,7 +537,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="power" />
     <MESSAGE value="addx" />
     <MESSAGE value="float" />
     <MESSAGE value="comparision" />
@@ -562,6 +561,7 @@
     <MESSAGE value="cargame" />
     <MESSAGE value="divisiblemultiple" />
     <MESSAGE value="temperatureconversion" />
-    <option name="LAST_COMMIT_MESSAGE" value="temperatureconversion" />
+    <MESSAGE value="numberguessing" />
+    <option name="LAST_COMMIT_MESSAGE" value="numberguessing" />
   </component>
 </project>
