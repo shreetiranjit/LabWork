@@ -7,8 +7,6 @@ def armstrong(num) :
     print (f'The length of num is {length_of_num}.')
     sum = 0
     arm = num
-
-
     while arm > 0 :
         digit = arm % 10
         sum += digit**(length_of_num)
