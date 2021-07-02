@@ -17,21 +17,22 @@
            Car had already stopped!!
         > quit
 '''
-started = False
-value = ""
+stop = True
+started = False                                                   #carhasnotstartedyet.
+value = ""                                                        #identifier
 while True :
     value = str(input("Enter the command for the game:")).lower()
     if value == 'start' :
         if started == False:
             print(" car  started. Ready to go...")
         else :
-            started = True
+            started = True                                          #carhasstartedthiswillwork
             print("The car has already started.")
     elif value == "stop":
-            if started == True :
+            if stop == True :
                 print("Car stopped")
             else :
-                started = False
+                stop = False
                 print ("Car has already stopped.")
     elif value == 'help' :
             print ('start - to start the car')
