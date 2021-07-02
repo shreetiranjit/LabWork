@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c599d897-ac97-4926-9c28-947fa653713e" name="Default Changelist" comment="factorial" />
+    <list default="true" id="c599d897-ac97-4926-9c28-947fa653713e" name="Default Changelist" comment="armstrong" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +29,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Python.one">
+  <component name="RunManager" selected="Python.two">
     <configuration name="eight" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LabWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -135,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="twelve" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="two" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LabWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,7 +147,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab3/twelve.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab3/two.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.two" />
         <item itemvalue="Python.one" />
         <item itemvalue="Python.ten" />
         <item itemvalue="Python.thirteen" />
         <item itemvalue="Python.eight" />
-        <item itemvalue="Python.twelve" />
       </list>
     </recent_temporary>
   </component>
@@ -174,20 +174,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624436782246</updated>
-    </task>
-    <task id="LOCAL-00024" summary="sumofdigits">
-      <created>1624438717559</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1624438717559</updated>
-    </task>
-    <task id="LOCAL-00025" summary="leapyear">
-      <created>1624438770367</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1624438770367</updated>
     </task>
     <task id="LOCAL-00026" summary="totalsum">
       <created>1624438821117</created>
@@ -518,7 +504,21 @@
       <option name="project" value="LOCAL" />
       <updated>1624882726359</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="armstrong">
+      <created>1625202723784</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1625202723784</updated>
+    </task>
+    <task id="LOCAL-00074" summary="armstrong">
+      <created>1625202785953</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1625202785953</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -557,8 +557,8 @@
     <MESSAGE value="upperandlowercase" />
     <MESSAGE value="primenumber" />
     <MESSAGE value="cargame" />
-    <MESSAGE value="armstrong" />
     <MESSAGE value="factorial" />
-    <option name="LAST_COMMIT_MESSAGE" value="factorial" />
+    <MESSAGE value="armstrong" />
+    <option name="LAST_COMMIT_MESSAGE" value="armstrong" />
   </component>
 </project>
