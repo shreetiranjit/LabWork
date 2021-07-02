@@ -4,11 +4,11 @@ Note : A prime number (or a prime) is a natural number greater than 1 and that h
 other than 1 and itself.
 '''
 def primenumber(num) :
-    check = 0
+    not_prime = 0
     for i in range (2,num) :
         if num % i == 0:
-            check+=1
-    if check >=1 :
+            not_prime+=1
+    if not_prime >=1 :
         print(f"{num} is not a prime number")
     else:
         print (f"{num} is a prime number ")

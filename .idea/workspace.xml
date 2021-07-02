@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c599d897-ac97-4926-9c28-947fa653713e" name="Default Changelist" comment="armstrong" />
+    <list default="true" id="c599d897-ac97-4926-9c28-947fa653713e" name="Default Changelist" comment="fizzbuzz" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -174,13 +174,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624436782246</updated>
-    </task>
-    <task id="LOCAL-00026" summary="totalsum">
-      <created>1624438821117</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1624438821117</updated>
     </task>
     <task id="LOCAL-00027" summary="power">
       <created>1624598836375</created>
@@ -518,7 +511,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625202785953</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="fizzbuzz">
+      <created>1625203922427</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1625203922427</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -546,7 +546,6 @@
     <MESSAGE value="multiples" />
     <MESSAGE value="upperandlower" />
     <MESSAGE value="prime number" />
-    <MESSAGE value="fizzbuzz" />
     <MESSAGE value="evenodd" />
     <MESSAGE value="stars" />
     <MESSAGE value="reverse" />
@@ -559,6 +558,7 @@
     <MESSAGE value="cargame" />
     <MESSAGE value="factorial" />
     <MESSAGE value="armstrong" />
-    <option name="LAST_COMMIT_MESSAGE" value="armstrong" />
+    <MESSAGE value="fizzbuzz" />
+    <option name="LAST_COMMIT_MESSAGE" value="fizzbuzz" />
   </component>
 </project>
