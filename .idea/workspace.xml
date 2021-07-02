@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c599d897-ac97-4926-9c28-947fa653713e" name="Default Changelist" comment="fizzbuzz" />
+    <list default="true" id="c599d897-ac97-4926-9c28-947fa653713e" name="Default Changelist" comment="primenumber">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/eight.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/eight.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +32,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Python.two">
+  <component name="RunManager" selected="Python.eight">
     <configuration name="eight" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LabWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.eight" />
         <item itemvalue="Python.two" />
         <item itemvalue="Python.one" />
         <item itemvalue="Python.ten" />
         <item itemvalue="Python.thirteen" />
-        <item itemvalue="Python.eight" />
       </list>
     </recent_temporary>
   </component>
@@ -174,13 +177,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624436782246</updated>
-    </task>
-    <task id="LOCAL-00027" summary="power">
-      <created>1624598836375</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1624598836375</updated>
     </task>
     <task id="LOCAL-00028" summary="power">
       <created>1624598859701</created>
@@ -518,7 +514,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625203922427</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="primenumber">
+      <created>1625204171007</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1625204171007</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -554,11 +557,11 @@
     <MESSAGE value="palindrome" />
     <MESSAGE value="limit" />
     <MESSAGE value="upperandlowercase" />
-    <MESSAGE value="primenumber" />
     <MESSAGE value="cargame" />
     <MESSAGE value="factorial" />
     <MESSAGE value="armstrong" />
     <MESSAGE value="fizzbuzz" />
-    <option name="LAST_COMMIT_MESSAGE" value="fizzbuzz" />
+    <MESSAGE value="primenumber" />
+    <option name="LAST_COMMIT_MESSAGE" value="primenumber" />
   </component>
 </project>
