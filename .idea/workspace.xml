@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c599d897-ac97-4926-9c28-947fa653713e" name="Default Changelist" comment="deletespecificindex">
-      <change afterPath="$PROJECT_DIR$/Lab4/list/nine.py" afterDir="false" />
+    <list default="true" id="c599d897-ac97-4926-9c28-947fa653713e" name="Default Changelist" comment="different_data_types">
+      <change afterPath="$PROJECT_DIR$/Lab4/tuple/three.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +21,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1uLF5ocvUOlUA9iWc7CjhDYVIhh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -31,7 +40,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Python.two">
+  <component name="RunManager" selected="Python.three">
     <configuration name="eight" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LabWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -116,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="seven" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="three" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LabWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,11 +133,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab4/list" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab4/tuple" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab4/list/seven.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab4/tuple/three.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.three" />
         <item itemvalue="Python.two" />
         <item itemvalue="Python.one" />
         <item itemvalue="Python.nine" />
         <item itemvalue="Python.eight" />
-        <item itemvalue="Python.seven" />
       </list>
     </recent_temporary>
   </component>
@@ -176,27 +185,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624436782246</updated>
-    </task>
-    <task id="LOCAL-00049" summary="multiples">
-      <created>1624606247308</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1624606247308</updated>
-    </task>
-    <task id="LOCAL-00050" summary="reverse">
-      <created>1624607085814</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1624607085815</updated>
-    </task>
-    <task id="LOCAL-00051" summary="upperandlower">
-      <created>1624607648293</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1624607648293</updated>
     </task>
     <task id="LOCAL-00052" summary="prime number">
       <created>1624609729948</created>
@@ -520,7 +508,28 @@
       <option name="project" value="LOCAL" />
       <updated>1625373465992</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="randomitem">
+      <created>1625373495459</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1625373495459</updated>
+    </task>
+    <task id="LOCAL-00099" summary="creatingtuple">
+      <created>1625373687715</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1625373687715</updated>
+    </task>
+    <task id="LOCAL-00100" summary="different_data_types">
+      <created>1625373813927</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1625373813927</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -536,9 +545,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="evenindex" />
-    <MESSAGE value="palindrome" />
-    <MESSAGE value="limit" />
     <MESSAGE value="upperandlowercase" />
     <MESSAGE value="armstrong" />
     <MESSAGE value="fizzbuzz" />
@@ -561,6 +567,9 @@
     <MESSAGE value="emptyornot" />
     <MESSAGE value="clone" />
     <MESSAGE value="deletespecificindex" />
-    <option name="LAST_COMMIT_MESSAGE" value="deletespecificindex" />
+    <MESSAGE value="randomitem" />
+    <MESSAGE value="creatingtuple" />
+    <MESSAGE value="different_data_types" />
+    <option name="LAST_COMMIT_MESSAGE" value="different_data_types" />
   </component>
 </project>
