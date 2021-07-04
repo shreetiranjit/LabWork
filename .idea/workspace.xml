@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c599d897-ac97-4926-9c28-947fa653713e" name="Default Changelist" comment="fourth_lastfourth">
-      <change afterPath="$PROJECT_DIR$/Lab4/set/one.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab4/tuple/eight.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c599d897-ac97-4926-9c28-947fa653713e" name="Default Changelist" comment="iteration">
+      <change afterPath="$PROJECT_DIR$/Lab4/set/three.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +39,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Python.two">
+  <component name="RunManager" selected="Python.three">
     <configuration name="eight" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LabWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -126,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="six" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="three" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LabWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,11 +132,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab4/tuple" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab4/set" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab4/tuple/six.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab4/set/three.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.three" />
         <item itemvalue="Python.two" />
         <item itemvalue="Python.one" />
         <item itemvalue="Python.eight" />
         <item itemvalue="Python.seven" />
-        <item itemvalue="Python.six" />
       </list>
     </recent_temporary>
   </component>
@@ -186,27 +184,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624436782246</updated>
-    </task>
-    <task id="LOCAL-00057" summary="reverse">
-      <created>1624611892991</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1624611892991</updated>
-    </task>
-    <task id="LOCAL-00058" summary="reverse">
-      <created>1624611926927</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1624611926927</updated>
-    </task>
-    <task id="LOCAL-00059" summary=" prime number">
-      <created>1624611986582</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1624611986582</updated>
     </task>
     <task id="LOCAL-00060" summary="palindrome">
       <created>1624612023915</created>
@@ -530,7 +507,28 @@
       <option name="project" value="LOCAL" />
       <updated>1625375426367</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="colon_of_tuple">
+      <created>1625376299886</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1625376299886</updated>
+    </task>
+    <task id="LOCAL-00107" summary="create_set">
+      <created>1625376376934</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1625376376934</updated>
+    </task>
+    <task id="LOCAL-00108" summary="iteration">
+      <created>1625376552454</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1625376552454</updated>
+    </task>
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -546,9 +544,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="divisiblemultiple" />
-    <MESSAGE value="temperatureconversion" />
-    <MESSAGE value="numberguessing" />
     <MESSAGE value="starpattern" />
     <MESSAGE value="reverse" />
     <MESSAGE value="oddeven" />
@@ -571,6 +566,9 @@
     <MESSAGE value="adding_tuple" />
     <MESSAGE value="tuple_to_string" />
     <MESSAGE value="fourth_lastfourth" />
-    <option name="LAST_COMMIT_MESSAGE" value="fourth_lastfourth" />
+    <MESSAGE value="colon_of_tuple" />
+    <MESSAGE value="create_set" />
+    <MESSAGE value="iteration" />
+    <option name="LAST_COMMIT_MESSAGE" value="iteration" />
   </component>
 </project>
