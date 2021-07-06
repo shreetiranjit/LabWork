@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c599d897-ac97-4926-9c28-947fa653713e" name="Default Changelist" comment="intersection">
-      <change afterPath="$PROJECT_DIR$/Lab4/dictionary/one.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab4/set/six.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/set/six.py" afterDir="false" />
+    <list default="true" id="c599d897-ac97-4926-9c28-947fa653713e" name="Default Changelist" comment="ascendind_descending">
+      <change afterPath="$PROJECT_DIR$/Lab4/dictionary/two.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +39,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Python.one">
+  <component name="RunManager" selected="Python.two">
     <configuration name="five" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LabWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="three" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="two" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LabWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,11 +153,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab4/set" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab4/dictionary" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab4/set/three.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab4/dictionary/two.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.two" />
         <item itemvalue="Python.one" />
         <item itemvalue="Python.six" />
         <item itemvalue="Python.five" />
         <item itemvalue="Python.four" />
-        <item itemvalue="Python.three" />
       </list>
     </recent_temporary>
   </component>
@@ -186,20 +184,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624436782246</updated>
-    </task>
-    <task id="LOCAL-00064" summary="factorial">
-      <created>1624613352395</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1624613352395</updated>
-    </task>
-    <task id="LOCAL-00065" summary="limit">
-      <created>1624775846935</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1624775846935</updated>
     </task>
     <task id="LOCAL-00066" summary="upperandlowercase">
       <created>1624859240111</created>
@@ -530,7 +514,21 @@
       <option name="project" value="LOCAL" />
       <updated>1625377320122</updated>
     </task>
-    <option name="localTasksCounter" value="113" />
+    <task id="LOCAL-00113" summary="intersection">
+      <created>1625570750106</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1625570750107</updated>
+    </task>
+    <task id="LOCAL-00114" summary="ascendind_descending">
+      <created>1625570780001</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1625570780001</updated>
+    </task>
+    <option name="localTasksCounter" value="115" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -546,7 +544,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fibonacci" />
     <MESSAGE value="factorial" />
     <MESSAGE value="digitsandletters" />
     <MESSAGE value="sumofitemsinlist" />
@@ -571,6 +568,7 @@
     <MESSAGE value="removing_members" />
     <MESSAGE value="removing_if_it_is_present" />
     <MESSAGE value="intersection" />
-    <option name="LAST_COMMIT_MESSAGE" value="intersection" />
+    <MESSAGE value="ascendind_descending" />
+    <option name="LAST_COMMIT_MESSAGE" value="ascendind_descending" />
   </component>
 </project>
