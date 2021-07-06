@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c599d897-ac97-4926-9c28-947fa653713e" name="Default Changelist" comment="checking_key" />
+    <list default="true" id="c599d897-ac97-4926-9c28-947fa653713e" name="Default Changelist" comment="iteration" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +37,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Python.five">
+  <component name="RunManager" selected="Python.six">
     <configuration name="five" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LabWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="one" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="six" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LabWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,7 +113,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab4/dictionary/one.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab4/dictionary/six.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.six" />
         <item itemvalue="Python.five" />
         <item itemvalue="Python.four" />
         <item itemvalue="Python.three" />
         <item itemvalue="Python.two" />
-        <item itemvalue="Python.one" />
       </list>
     </recent_temporary>
   </component>
@@ -182,34 +182,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624436782246</updated>
-    </task>
-    <task id="LOCAL-00069" summary="primenumber">
-      <created>1624863028930</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1624863028930</updated>
-    </task>
-    <task id="LOCAL-00070" summary="cargame">
-      <created>1624864312623</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1624864312624</updated>
-    </task>
-    <task id="LOCAL-00071" summary="armstrong">
-      <created>1624866354726</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1624866354726</updated>
-    </task>
-    <task id="LOCAL-00072" summary="factorial">
-      <created>1624882726359</created>
-      <option name="number" value="00072" />
-      <option name="presentableId" value="LOCAL-00072" />
-      <option name="project" value="LOCAL" />
-      <updated>1624882726359</updated>
     </task>
     <task id="LOCAL-00073" summary="armstrong">
       <created>1625202723784</created>
@@ -526,7 +498,35 @@
       <option name="project" value="LOCAL" />
       <updated>1625573309058</updated>
     </task>
-    <option name="localTasksCounter" value="118" />
+    <task id="LOCAL-00118" summary="checking_key">
+      <created>1625573440418</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1625573440418</updated>
+    </task>
+    <task id="LOCAL-00119" summary="checking_key">
+      <created>1625573481618</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1625573481618</updated>
+    </task>
+    <task id="LOCAL-00120" summary="iteration">
+      <created>1625573666694</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1625573666694</updated>
+    </task>
+    <task id="LOCAL-00121" summary="iteration">
+      <created>1625574402724</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1625574402724</updated>
+    </task>
+    <option name="localTasksCounter" value="122" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -542,7 +542,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="multipliesofitemsinlist" />
     <MESSAGE value="maximum" />
     <MESSAGE value="samefirstandlastcharacter" />
     <MESSAGE value="emptyornot" />
@@ -558,7 +557,6 @@
     <MESSAGE value="fourth_lastfourth" />
     <MESSAGE value="colon_of_tuple" />
     <MESSAGE value="create_set" />
-    <MESSAGE value="iteration" />
     <MESSAGE value="adding_members" />
     <MESSAGE value="removing_members" />
     <MESSAGE value="removing_if_it_is_present" />
@@ -567,6 +565,8 @@
     <MESSAGE value="adding_key" />
     <MESSAGE value="concatenate" />
     <MESSAGE value="checking_key" />
-    <option name="LAST_COMMIT_MESSAGE" value="checking_key" />
+    <MESSAGE value="multiplication_of_x" />
+    <MESSAGE value="iteration" />
+    <option name="LAST_COMMIT_MESSAGE" value="iteration" />
   </component>
 </project>
