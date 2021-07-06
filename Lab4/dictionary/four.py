@@ -10,5 +10,5 @@ def checkKey(d, value):
         print(f"{keys} is not present")
 
 keys= int(input("Enter the value to check if it is present as key :"))
-checkKey(d,key1)
+checkKey(d,keys)
 
