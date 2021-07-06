@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c599d897-ac97-4926-9c28-947fa653713e" name="Default Changelist" comment="iteration" />
+    <list default="true" id="c599d897-ac97-4926-9c28-947fa653713e" name="Default Changelist" comment="multiplication_of_x" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -182,13 +182,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624436782246</updated>
-    </task>
-    <task id="LOCAL-00073" summary="armstrong">
-      <created>1625202723784</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1625202723784</updated>
     </task>
     <task id="LOCAL-00074" summary="armstrong">
       <created>1625202785953</created>
@@ -526,7 +519,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625574402724</updated>
     </task>
-    <option name="localTasksCounter" value="122" />
+    <task id="LOCAL-00122" summary="multiplication_of_x">
+      <created>1625574464245</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1625574464247</updated>
+    </task>
+    <option name="localTasksCounter" value="123" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -542,7 +542,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="maximum" />
     <MESSAGE value="samefirstandlastcharacter" />
     <MESSAGE value="emptyornot" />
     <MESSAGE value="clone" />
@@ -565,8 +564,9 @@
     <MESSAGE value="adding_key" />
     <MESSAGE value="concatenate" />
     <MESSAGE value="checking_key" />
-    <MESSAGE value="multiplication_of_x" />
     <MESSAGE value="iteration" />
-    <option name="LAST_COMMIT_MESSAGE" value="iteration" />
+    <MESSAGE value="multipl" />
+    <MESSAGE value="multiplication_of_x" />
+    <option name="LAST_COMMIT_MESSAGE" value="multiplication_of_x" />
   </component>
 </project>
