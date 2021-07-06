@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c599d897-ac97-4926-9c28-947fa653713e" name="Default Changelist" comment="concatenate">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c599d897-ac97-4926-9c28-947fa653713e" name="Default Changelist" comment="checking_key" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -184,13 +182,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624436782246</updated>
-    </task>
-    <task id="LOCAL-00068" summary="armstrong">
-      <created>1624860873338</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1624860873338</updated>
     </task>
     <task id="LOCAL-00069" summary="primenumber">
       <created>1624863028930</created>
@@ -528,7 +519,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625571779675</updated>
     </task>
-    <option name="localTasksCounter" value="117" />
+    <task id="LOCAL-00117" summary="checking_key">
+      <created>1625573309058</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1625573309058</updated>
+    </task>
+    <option name="localTasksCounter" value="118" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -544,7 +542,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="sumofitemsinlist" />
     <MESSAGE value="multipliesofitemsinlist" />
     <MESSAGE value="maximum" />
     <MESSAGE value="samefirstandlastcharacter" />
@@ -569,6 +566,7 @@
     <MESSAGE value="ascendind_descending" />
     <MESSAGE value="adding_key" />
     <MESSAGE value="concatenate" />
-    <option name="LAST_COMMIT_MESSAGE" value="concatenate" />
+    <MESSAGE value="checking_key" />
+    <option name="LAST_COMMIT_MESSAGE" value="checking_key" />
   </component>
 </project>
